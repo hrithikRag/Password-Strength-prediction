@@ -16,4 +16,4 @@ This GitHub repository showcases a robust approach to predicting password streng
 
 This repository serves as a valuable resource for those interested in cybersecurity, password security, and machine learning applications. The provided code and analysis offer insights into the transformation of textual data into meaningful features and the development of accurate models for password strength evaluation.
 
-**Keywords:** Password Strength Prediction, Machine Learning, Logistic Regression, Neural Networks, TF-IDF, Multi-class Classification, Hyper-parameter Tuning, scikit-learn, TensorFlow.
+**Keywords:** Password Strength Prediction, Machine Learning, Logistic Regression, Decision Tree, Neural Networks, TF-IDF, Multi-class Classification, Hyper-parameter Tuning, scikit-learn, TensorFlow.
